@@ -19,12 +19,6 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = git://github.com/tpope/vim-rails.git
-[submodule "/Users/bwong/.vim/bundle/vim-ruby"]
-	path = /Users/bwong/.vim/bundle/vim-ruby
-	url = git://github.com/vim-ruby/vim-ruby.git
-[submodule "/Users/bwong/.vim/bundle/vim-elixir"]
-	path = /Users/bwong/.vim/bundle/vim-elixir
-	url = https://github.com/elixir-lang/vim-elixir.git
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
 	url = git://github.com/vim-ruby/vim-ruby.git
