@@ -34,3 +34,21 @@
 [submodule "bundle/elm.vim"]
 	path = bundle/elm.vim
 	url = https://github.com/lambdatoast/elm.vim.git
+[submodule "bundle/elm-vim"]
+	path = bundle/elm-vim
+	url = git@github.com:ElmCast/elm-vim.git
+[submodule "/Users/bwong/.vim/bundle/nerdcommenter"]
+	path = /Users/bwong/.vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/vim-test"]
+	path = bundle/vim-test
+	url = git@github.com:janko-m/vim-test.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t.git
+[submodule "bundle/fzf.vim"]
+	path = bundle/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
