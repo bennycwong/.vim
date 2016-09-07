@@ -64,3 +64,6 @@
 [submodule "/Users/bwong/.vim/bundle/vim-javascript"]
 	path = /Users/bwong/.vim/bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/indentLine"]
+	path = bundle/indentLine
+	url = git@github.com:Yggdroot/indentLine.git
