@@ -67,3 +67,6 @@
 [submodule "bundle/indentLine"]
 	path = bundle/indentLine
 	url = git@github.com:Yggdroot/indentLine.git
+[submodule "bundle/Spacegray.vim"]
+	path = bundle/Spacegray.vim
+	url = git://github.com/ajh17/Spacegray.vim.git
