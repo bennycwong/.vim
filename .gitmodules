@@ -76,3 +76,6 @@
 [submodule "bundle/dracula-theme"]
 	path = bundle/dracula-theme
 	url = git@github.com:dracula/vim.git
+[submodule "/Users/benny/.vim/bundle/vim-dispatch"]
+	path = /Users/benny/.vim/bundle/vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
