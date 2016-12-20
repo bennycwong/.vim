@@ -79,3 +79,9 @@
 [submodule "/Users/benny/.vim/bundle/vim-dispatch"]
 	path = /Users/benny/.vim/bundle/vim-dispatch
 	url = git://github.com/tpope/vim-dispatch.git
+[submodule "/Users/benny/.vim/bundle/vim-easytags"]
+	path = /Users/benny/.vim/bundle/vim-easytags
+	url = git@github.com:xolox/vim-easytags.git
+[submodule "/Users/benny/.vim/bundle/vim-misc"]
+	path = /Users/benny/.vim/bundle/vim-misc
+	url = git@github.com:xolox/vim-misc.git
